@@ -158,34 +158,33 @@ Jadi alurnya simpel: program jalan → tampilkan menu → user pilih → program
 
 - User memasukkan angka 1 → artinya memilih Tambah Reservasi.
 
-Program minta nama pemesan.
+- Program minta nama pemesan.
 
-Kalau kosong → muncul pesan error “Nama tidak boleh kosong!” dan diminta ulang.
+- Kalau kosong → muncul pesan error “Nama tidak boleh kosong!” dan diminta ulang.
 
-Di sini user mengisi Faudzan 
+- Di sini user mengisi Faudzan 
 
-Program minta tanggal.
+- Program minta tanggal.
 
-Kalau kosong → muncul pesan “Tanggal tidak boleh kosong!”.
+- Kalau kosong → muncul pesan “Tanggal tidak boleh kosong!”.
 
-User mengisi 10-09-2025.
+- User mengisi 10-09-2025.
 Program minta jam main.
 
-Kalau kosong → muncul pesan “Jam tidak boleh kosong!”.
+- Kalau kosong → muncul pesan “Jam tidak boleh kosong!”.
 
-User mengisi 19:00.
+- User mengisi 19:00.
 
-Program minta durasi main (dalam jam).
+- Program minta durasi main (dalam jam).
 
-Kalau input bukan angka → muncul pesan “Durasi harus berupa angka!”.
+- Kalau input bukan angka → muncul pesan “Durasi harus berupa angka!”.
 
-Kalau ≤ 0 → muncul pesan “Durasi harus lebih dari 0!”.
+- Kalau ≤ 0 → muncul pesan “Durasi harus lebih dari 0!”.
 
-User mengisi 2 
+- User mengisi 2 
 
-Program membuat objek baru Reservasi → menyimpan data Faudzan | 10-09-2025 | 19:00 | 2 jam.
+- Program membuat objek baru Reservasi → menyimpan data Faudzan | 10-09-2025 | 19:00 | 2 jam.
 
-Data dimasukkan ke ArrayList<Reservasi> daftarReservasi.
 
 *Contoh jika mengisi dengan jawaban kosong*
 
