@@ -51,3 +51,9 @@ Data reservasi disimpan sementara di dalam ArrayList.
 Jika user memilih menu keluar, program menampilkan pesan perpisahan dan berhenti.
 
 Jadi alurnya simpel: program jalan → tampilkan menu → user pilih → program proses → balik ke menu lagi, sampai user memilih keluar.
+
+=====================================================================================================================================
+
+**Penjelasan Kode Program**
+
+
