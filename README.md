@@ -81,6 +81,7 @@ Jadi alurnya simpel: program jalan → tampilkan menu → user pilih → program
 - Atribut: namaPemesan, tanggal, jam, durasi.
 
 - Konstruktor digunakan untuk mengisi data saat objek dibuat.
+  
 
 4. Method main
 
@@ -90,6 +91,7 @@ Jadi alurnya simpel: program jalan → tampilkan menu → user pilih → program
 
 - Membuat ArrayList untuk menyimpan daftar reservasi.
 
+
 5. Perulangan Menu
 
    <img width="752" height="246" alt="image" src="https://github.com/user-attachments/assets/5ca7b7be-8704-4720-bce4-90d5de8b041d" />
@@ -97,6 +99,7 @@ Jadi alurnya simpel: program jalan → tampilkan menu → user pilih → program
 - Menu utama ditampilkan berulang dengan while(true).
 
 - User memilih menu dengan angka 1–5.
+
 
 6. Tambah Reservasi
 
@@ -109,6 +112,7 @@ Jadi alurnya simpel: program jalan → tampilkan menu → user pilih → program
 
 - Data disimpan ke daftarReservasi.
 
+
 7. Lihat Reservasi
 
   <img width="863" height="300" alt="image" src="https://github.com/user-attachments/assets/deb62585-3809-460a-941e-39822f953ff1" />
@@ -116,6 +120,7 @@ Jadi alurnya simpel: program jalan → tampilkan menu → user pilih → program
 - Menampilkan semua data dalam list.
 
 - Kalau kosong, tampil pesan “Belum ada data reservasi”.
+
 
 8. Ubah Reservasi
 
@@ -127,6 +132,7 @@ Jadi alurnya simpel: program jalan → tampilkan menu → user pilih → program
 
 - Validasi jika nomor salah atau list kosong.
 
+
 9. Hapus Reservasi
 
    <img width="777" height="418" alt="image" src="https://github.com/user-attachments/assets/992c4eb8-7257-421d-bdcf-e21f7ed693df" />
@@ -135,11 +141,13 @@ Jadi alurnya simpel: program jalan → tampilkan menu → user pilih → program
 
 - Validasi jika list kosong atau nomor tidak valid.
 
+
 10. Keluar Program
 
     <img width="625" height="100" alt="image" src="https://github.com/user-attachments/assets/127f5568-ed18-49ca-a190-9b6f917553e5" />
 
 - Program berhenti
+
 
 11. Default
 
@@ -190,11 +198,13 @@ Program minta jam main.
 
 <img width="493" height="431" alt="image" src="https://github.com/user-attachments/assets/3a0336e6-e6fc-4ac3-9452-ddc37e698035" />
 
+
 2. Lihat Reservasi
    
 <img width="429" height="233" alt="image" src="https://github.com/user-attachments/assets/ce103521-7ad3-4949-984c-39c4ebb5c2f6" />
 
 - Jadi menu ini berfungsi untuk melihat semua data yang sudah ditambahkan ke sistem, sehingga user bisa mengecek kembali jadwal reservasi mereka.
+
 
 3. Ubah Reservasi
 
@@ -219,6 +229,7 @@ Kalau user isi data baru → nilai langsung diperbarui.
 - Setelah semua input selesai, program update objek Reservasi di dalam ArrayList.
 → muncul pesan “Reservasi berhasil diubah!”.
 
+
 4. Hapus reservasi
 
 <img width="447" height="199" alt="image" src="https://github.com/user-attachments/assets/1ea9dc91-29f5-4bd1-8e09-fb3ea1fea793" />
@@ -234,6 +245,7 @@ Kalau user isi data baru → nilai langsung diperbarui.
 
 - Setelah sukses, muncul pesan:
 “Reservasi berhasil dihapus!”
+
 
 5. Keluar
 
